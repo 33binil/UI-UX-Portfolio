@@ -158,7 +158,7 @@ const Home = () => {
                             data-aos="fade-up"
                             data-aos-delay="1000"
                         >
-                            Passionate UI/UX Designer & MERN Stack Developer focused on creating responsive, user-friendly interfaces and full-stack applications. Using MongoDB, Express.js, React, Node.js, HTML, CSS, JavaScript, and Tailwind CSS, I craft clean, interactive UIs and robust backends for seamless user experiences.
+                            Passionate UI/UX Designer and Frontend Developer focused on building responsive, accessible, and visually engaging web interfaces. Experienced in designing modern, user-centered experiences using Figma, and implementing them with React, Tailwind CSS, HTML, CSS, and JavaScript. Skilled in creating design systems, prototypes, and interactive layouts that combine creativity with performance. Adept at translating wireframes into high-quality, production-ready code while ensuring usability, scalability, and consistency across devices. Dedicated to delivering clean, efficient, and user-focused digital solutions through a blend of design expertise and frontend development.
                         </p>
                         <div
                             className="flex flex-wrap gap-3"

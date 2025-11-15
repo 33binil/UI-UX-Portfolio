@@ -6,17 +6,13 @@ const icons = [
 	{ name: "JavaScript", src: "/javascript.svg" },
 	{ name: "React", src: "/reactjs.svg" },
 	{ name: "Tailwind CSS", src: "/tailwind.svg" },
-	{ name: "Node.js", src: "/nodejs.svg" },
-	{ name: "Firebase", src: "/firebase.svg" },
 	{ name: "Vite", src: "/vite.svg" },
-	{ name: "Express.js", src: "/express.png" },
-	{ name: "MongoDB", src: "/MongoDB.svg" },
-	{ name: "Python", src: "/Python.svg" },
 	{ name: "C#", src: "/C.svg" },
 	{ name: "Git", src: "/Git.svg" },
 	{ name: "MySQL", src: "/MySQL.svg" },
 	{ name: "BootStrap", src: "/bootstrap.png" },
 	{ name: "Figma", src: "/Figma.svg" },
+	{ name: "Adobe XD", src: "/adobe-xd.svg" },
 
 ];
 
@@ -88,8 +84,7 @@ export default function Stack() {
 						enhance my skillset. I enjoy working on challenging projects and love
 						collaborating with others to bring their ideas to life. I have
 						hands-on experience with technologies including HTML, CSS,
-						JavaScript, React, Tailwind CSS, Node.js, Express.js, MongoDB,
-						Python, C#, Unity, and Next.js, and I'm constantly learning new tools
+						JavaScript, React, Tailwind CSS, and I'm constantly learning new tools
 						and frameworks to stay updated in the ever-evolving tech landscape.
 					</p>
 				</div>

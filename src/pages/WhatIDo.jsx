@@ -24,24 +24,23 @@ export default function WhatIDo() {
             ],
         },
         {
-            title: "FULL-STACK DEVELOPMENT",
+            title: "FRONTEND DEVELOPMENT",
             description:
-                "I build responsive, scalable, and interactive web applications with a focus on clean code, performance, and seamless user experience. Leveraging the MERN stack (MongoDB, Express.js, React, Node.js) along with modern frontend technologies like HTML, CSS, JavaScript, and Tailwind CSS, I deliver fast, dynamic, and user-friendly interfaces backed by robust server-side functionality.",
+                "I build responsive, user-focused web interfaces that blend creativity with performance. Skilled in React, Tailwind CSS, HTML, CSS, and JavaScript, I focus on clean code, accessibility (A11y), and smooth, interactive user experiences across all devices.",
             skills: [
                 "HTML5",
                 "CSS3",
-                "JavaScript",
+                "JavaScript (ES6+)",
                 "React.js",
                 "Next.js",
                 "Tailwind CSS",
-                "Node.js",
-                "Express.jsx",
-                "MongoDB",
+                "Figma",
                 "Framer Motion / GSAP",
                 "Responsive Design",
-                "Git & GitHub",
+                "Accessibility (A11y)",
+                "Version Control (Git & GitHub)",
+                "UI/UX Design Integration"
             ],
-
         },
     ];
 

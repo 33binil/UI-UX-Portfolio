@@ -127,13 +127,13 @@ const AboutPage = () => {
                             data-aos="fade-right"
                             data-aos-duration="1500"
                         >
-                            I'm a passionate UI/UX Designer and MERN Stack Developer who loves crafting responsive, user-friendly web apps. Using MongoDB, Express.js, React, Node.js, HTML, CSS, JavaScript, and Tailwind CSS, I design and build clean, interactive UIs with robust backends to deliver seamless user experiences.
+                            I'm a passionate UI/UX Designer and Frontend Developer who loves crafting responsive, user-friendly web apps. Using React, HTML, CSS, JavaScript, and Tailwind CSS, I design and build clean, interactive UIs with robust backends to deliver seamless user experiences.
                         </p>
 
                         {/* ✅ Download CV Button */}
                         <div className="pt-4" data-aos="fade-up" data-aos-duration="1000">
                             <a
-                                href="/ResumeBinilB.pdf"
+                                href="/ResumeBinilB(Frontend.pdf"
                                 download
                                 className="inline-flex items-center gap-2 px-6 py-3 rounded-lg bg-gradient-to-r from-[#6366f1] to-[#a855f7] font-medium hover:scale-105 transition-all shadow-lg hover:shadow-xl"
                             >
