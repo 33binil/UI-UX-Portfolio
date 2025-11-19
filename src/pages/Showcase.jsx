@@ -25,7 +25,7 @@ const projects = [
         title: "Pixel Junkie Creative Studio",
         role: "Web design and development (# In Progress)",
         tools: "React, Tailwind CSS, Figma",
-        img: "https://raw.githubusercontent.com/33binil/Portfolio/main/public/img/pixeljunkie.png",
+        img: "https://raw.githubusercontent.com/33binil/Portfolio/main/public/img/pixeljunkiestudio.png",
         link: "https://pixeljunkiestudio.in/",
     },
     {
