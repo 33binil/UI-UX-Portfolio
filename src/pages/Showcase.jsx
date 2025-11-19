@@ -23,16 +23,16 @@ const projects = [
     {
         id: "03",
         title: "Pixel Junkie Creative Studio",
-        role: "Web design and development",
+        role: "Web design and development (# In Progress)",
         tools: "React, Tailwind CSS, Figma",
         img: "https://raw.githubusercontent.com/33binil/Portfolio/main/public/img/pixeljunkie.png",
-        link: "https://pixeljunkiestudio.in",
+        link: "nret.vercel.app",
     },
     {
         id: "04",
-        title: "Internship Project",
+        title: "Nano Robotics & Embed Technology",
         role: "Web development",
-        tools: "HTML, CSS, ",
+        tools: "React, Tailwind CSS, Figma ",
         img: "https://raw.githubusercontent.com/33binil/Portfolio/main/public/img/internship.png",
         link: "https://front-end-website-1.vercel.app/",
     },
@@ -42,22 +42,6 @@ const projects = [
         role: "College Project",
         tools: "PHP, Javascript, CSS",
         img: "https://raw.githubusercontent.com/33binil/Portfolio/main/public/img/BBDMS.jpg",
-    },
-    {
-        id: "06",
-        title: "Weather App",
-        role: "Web Project",
-        tools: "Javascript, HTML, CSS",
-        img: "https://raw.githubusercontent.com/33binil/Portfolio/main/public/img/weather.jpg",
-        link: "https://weather-app-coral-seven-64.vercel.app/",
-    },
-    {
-        id: "07",
-        title: "QR Code Generator",
-        role: "Web Project",
-        tools: "Javascript, HTML, CSS",
-        img: "https://raw.githubusercontent.com/33binil/Portfolio/main/public/img/QR.png",
-        link: "https://qr-generator-beta-dusky.vercel.app/",
     },
 
 ];

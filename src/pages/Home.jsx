@@ -39,7 +39,7 @@ const StatusBadge = memo(() => (
 
 const MainTitle = memo(() => (
     <div className="space-y-2" data-aos="fade-up" data-aos-delay="600">
-        <h1 className="font-exo text-5xl sm:text-6xl lg:text-7xl font-bold tracking-tight">
+        <h1 className="font-exo text-3xl sm:text-6xl lg:text-7xl font-bold tracking-tight">
             <span className="relative inline-block">
                 <span className="absolute -inset-2 bg-gradient-to-r from-[#6366f1] to-[#a855f7] blur-2xl opacity-20" />
                 <span className="relative bg-gradient-to-r from-white via-blue-100 to-purple-200 bg-clip-text text-transparent">
@@ -137,7 +137,7 @@ const Home = () => {
 
                     {/* Left Section */}
                     <div
-                        className="w-full lg:w-1/2 space-y-8 text-left"
+                        className="w-full lg:w-1/2 space-y-8 text-left pt-56 md:pt-0"
                         data-aos="fade-right"
                         data-aos-delay="200"
                     >
