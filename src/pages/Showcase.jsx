@@ -34,7 +34,7 @@ const projects = [
         role: "Web development",
         tools: "React, Tailwind CSS, Figma ",
         img: "https://raw.githubusercontent.com/33binil/Portfolio/main/public/img/nret.png",
-        link: "https://front-end-website-1.vercel.app/",
+        link: "https://nret.vercel.app/",
     },
     {
         id: "05",
