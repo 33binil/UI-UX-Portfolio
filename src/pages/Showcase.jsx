@@ -26,14 +26,14 @@ const projects = [
         role: "Web design and development (# In Progress)",
         tools: "React, Tailwind CSS, Figma",
         img: "https://raw.githubusercontent.com/33binil/Portfolio/main/public/img/pixeljunkie.png",
-        link: "nret.vercel.app",
+        link: "https://pixeljunkiestudio.in/",
     },
     {
         id: "04",
         title: "Nano Robotics & Embed Technology",
         role: "Web development",
         tools: "React, Tailwind CSS, Figma ",
-        img: "https://raw.githubusercontent.com/33binil/Portfolio/main/public/img/internship.png",
+        img: "https://raw.githubusercontent.com/33binil/Portfolio/main/public/img/nret.png",
         link: "https://front-end-website-1.vercel.app/",
     },
     {
