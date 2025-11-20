@@ -25,7 +25,7 @@ const projects = [
         title: "Pixel Junkie Creative Studio",
         role: "Web design and development (# In Progress)",
         tools: "React, Tailwind CSS, Figma",
-        img: "https://raw.githubusercontent.com/33binil/Portfolio/main/public/img/pixeljunkiestudio.png",
+        img: "https://raw.githubusercontent.com/33binil/UI-UX-Portfolio/main/public/img/pixeljunkiestudio.png",
         link: "https://pixeljunkiestudio.in/",
     },
     {
@@ -33,7 +33,7 @@ const projects = [
         title: "Nano Robotics & Embed Technology",
         role: "Web development",
         tools: "React, Tailwind CSS, Figma ",
-        img: "https://raw.githubusercontent.com/33binil/Portfolio/main/public/img/nret.png",
+        img: "https://raw.githubusercontent.com/33binil/UI-UX-Portfolio/main/public/img/nret.png",
         link: "https://nret.vercel.app/",
     },
     {
