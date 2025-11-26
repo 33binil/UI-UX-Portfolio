@@ -133,7 +133,7 @@ const AboutPage = () => {
                         {/* ✅ Download CV Button */}
                         <div className="pt-4" data-aos="fade-up" data-aos-duration="1000">
                             <a
-                                href="/ResumeBinilB(UI UX).pdf"
+                                href="/ResumeBinilB.pdf"
                                 download
                                 className="inline-flex items-center gap-2 px-6 py-3 rounded-lg bg-gradient-to-r from-[#6366f1] to-[#a855f7] font-medium hover:scale-105 transition-all shadow-lg hover:shadow-xl"
                             >

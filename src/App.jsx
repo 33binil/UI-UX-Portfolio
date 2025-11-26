@@ -2,13 +2,13 @@ import { useState } from "react";
 import Welcome from "./pages/Welcome";
 import Home from "./pages/Home";
 import About from "./pages/About";
-import Showcase from "./pages/Showcase";
 import Contact from "./pages/Contact";
 import Background from "./components/Background";
 import Navbar from "./components/Navbar";
 import WhatIDo from "./pages/WhatIDo.jsx";
 import Career from "./pages/Career.jsx";
 import Stack from "./pages/Stack.jsx";
+import UiDesign from "./pages/UiDesign.jsx";
 
 function App() {
     const [showWelcome, setShowWelcome] = useState(true);
@@ -37,8 +37,9 @@ function App() {
                         <Career />
                     </section>
                     <section id="showcase">
-                        <Showcase />
+                        <UiDesign />
                     </section>
+                
                     <section id="contact">
                         <Contact />
                     </section>

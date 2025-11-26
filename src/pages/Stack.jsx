@@ -1,19 +1,27 @@
 import React from "react";
 
 const icons = [
+	// Core Web Technologies
 	{ name: "HTML", src: "/html.svg" },
 	{ name: "CSS", src: "/css.svg" },
 	{ name: "JavaScript", src: "/javascript.svg" },
 	{ name: "React", src: "/reactjs.svg" },
 	{ name: "Tailwind CSS", src: "/tailwind.svg" },
+	{ name: "Bootstrap", src: "/bootstrap.png" },
 	{ name: "Vite", src: "/vite.svg" },
-	{ name: "C#", src: "/C.svg" },
 	{ name: "Git", src: "/Git.svg" },
-	{ name: "MySQL", src: "/MySQL.svg" },
-	{ name: "BootStrap", src: "/bootstrap.png" },
+	{ name: "C#", src: "/C.svg" },
+
+	// UI/UX Design Tools
 	{ name: "Figma", src: "/Figma.svg" },
 	{ name: "Adobe XD", src: "/adobe-xd.svg" },
-
+	{ name: "UI/UX Design", src: "/ux-ui-logo.png" },
+	{ name: "Material UI", src: "/MUI.svg" },
+	{ name: "User Research", src: "/Figma.svg" },
+	{ name: "Wireframing", src: "/Figma.svg" },
+	{ name: "Prototyping", src: "/Figma.svg" },
+	{ name: "Responsive Design", src: "/html.svg" },
+	{ name: "Design Systems", src: "/Figma.svg" },
 ];
 
 export default function Stack() {
